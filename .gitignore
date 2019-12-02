@@ -513,3 +513,5 @@ b11b8b2-dataset/
 test/
 cnn-dataset/
 cloud-classify/
+*.whl
+*.h5

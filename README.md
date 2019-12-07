@@ -6,6 +6,10 @@
 ---
 1. install whl files located in config file(for windows)
 2. install req.txt packages 
+4. vs 2017
+3. cuda v10.0
+4. cuDnn v7.4.1
+5.tensorflow-gpu v1.14
 
 
 
